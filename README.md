@@ -1,4 +1,4 @@
-# UrsatechProject - Gender Breakdown in Higher Academic for CS/Engineering in the US
+# Ursatech Project - Gender Breakdown in Higher Academic for CS/Engineering in the US
 
 - **Organization:** Ursatech Berkeley https://ursatechberkeley.com/
     - UrsaTech partners with student organizations to facilitate creative and impactful initiatives using computer science. We give back to our campus community by providing pro-bono consulting services within the UC Berkeley community and lending our expertise to university-affiliated groups
